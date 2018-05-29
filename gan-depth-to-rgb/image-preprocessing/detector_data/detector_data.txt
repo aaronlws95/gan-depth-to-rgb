@@ -1,3 +1,0 @@
-loss_history_pixel_fullimg_ker32_lr0.001000.npy
-pixel_fullimg_ker32_lr0.001000
-weight_pixel_fullimg_ker32_lr0.001000.h5
